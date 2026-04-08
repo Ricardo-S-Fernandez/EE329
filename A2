@@ -1,0 +1,13 @@
+A2/
+├── Core/
+│   ├── Inc/
+│   │   ├── main.h
+│   │   └── keypad.h
+│   ├── Src/
+│   │   ├── main.c
+│   │   └── keypad.c
+├── deliverables/
+│   ├── report_draft.docx
+│   ├── final_report.pdf
+│   └── code_appendix.pdf
+└── README.md
